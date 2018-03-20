@@ -36,6 +36,7 @@ nickels = cents // cents_nickel
 cents = cents % cents_nickel
 pennies = cents
 
+# Display the result
 print(" ",toonies,"toonies")
 print(" ",loonies,"loonies")
 print(" ",quarters,"quarters")
