@@ -44,7 +44,7 @@ grade = input("Enter the letter grade of the grade chart(like A, A+, B- etc): ")
 if grade == "A+" or grade == "A":
      gp = A
 elif grade == "A-":
-     gp = A_MIUNS
+     gp = A_MINUS
 elif grade == "B+":
      gp = B_PLUS
 elif grade == "B":
