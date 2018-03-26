@@ -21,7 +21,7 @@ a message indicating the number of real roots, along with the values of the real
 
 # ask the user to enter required value
 a = int(input("Enter the value of a(non-zero): "))
-# ensure that the user will always enter a non-zero value of a 
+# ensure that the user will always enter non-zero value of a 
 if a != 0:
     # If user will enter a non-zero value of a then prompt for the value of b and c
     b = int(input("Enter the value of b: "))
