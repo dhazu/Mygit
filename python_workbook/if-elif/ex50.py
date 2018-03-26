@@ -1,5 +1,5 @@
-"""Exercise 50: Roots of a Quadratic Function  mkkkkkkkk.;;;;;;;;;;;
-A univariate quadratic function has the form f (x) = ax^2 + bx + c, where a, b and
+"""Exercise 50: Roots of a Quadratic Function  
+A Univariate quadratic function has the form f (x) = ax^2 + bx + c, where a, b and
 c are constants, and a is non-zero. The roots of a quadratic function can be found
 by finding the values of x that satisfy the quadratic equation ax^2 + bx + c = 0. A
 quadratic function may have 0, 1 or 2 real roots. These roots can be computed using
